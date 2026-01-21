@@ -3,7 +3,7 @@
     "durationMs": 2000
   },
   "stream": {
-    "url": "https://live-server.mivideo.pro:8081/latinavzla/index.m3u8",
-    "backupUrl": "https://live-server.mivideo.pro:8081/latinavzla/index.m3u8"
+    "url": "https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8",
+    "backupUrl": "https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8"
   }
 }
