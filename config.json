@@ -2,7 +2,7 @@
   "appName": "PJ TV ECUADOR",
   "splash": {
     "durationMs": 2000,
-    "background": "#000000"
+    "background": "#ffffff"
   },
   "stream": {
     "id": "klar-main",
