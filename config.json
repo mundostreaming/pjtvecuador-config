@@ -3,7 +3,7 @@
     "durationMs": 2000
   },
   "stream": {
-    "url": "https://live-server.mivideo.pro:8081/fibramoltv/index.m3u8",
-    "backupUrl": "https://live-server.mivideo.pro:8081/fibramoltv/index.m3u8"
+    "url": "https://tv1.ninatv.cl/web/stream.m3u8",
+    "backupUrl": "https://tv1.ninatv.cl/web/stream.m3u8"
   }
 }
