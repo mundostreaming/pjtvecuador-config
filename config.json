@@ -1,6 +1,6 @@
 {
   "splash": {
-    "durationMs": 2000
+    "durationMs": 500
   },
   "stream": {
     "url": "https://tv1.ninatv.cl/web/stream.m3u8",
