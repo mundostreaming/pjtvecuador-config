@@ -3,7 +3,7 @@
     "durationMs": 500
   },
   "stream": {
-    "url": "https://tv1.ninatv.cl/web/stream.m3u8",
-    "backupUrl": "https://tv1.ninatv.cl/web/stream.m3u8"
+    "url": "https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8",
+    "backupUrl": "https://vdo1.panelstreaming.live:3363/live/radiotvpjlive.m3u8"
   }
 }
